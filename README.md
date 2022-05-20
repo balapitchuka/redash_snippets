@@ -1,5 +1,7 @@
 # Redash
 
+[Redash Features Overview](https://gist.github.com/arikfr/9d061bedb55ccd137f30)
+
 ## Setting up HTTPS with LetsEncrypt for Redash Docker Deployment
 1. Make sure the domain you picked points at the IP of your Redash server.
 2. Switch to the `root` user (`sudo su`).
